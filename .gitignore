@@ -1,0 +1,11 @@
+# Binarki i dane z uruchomienia
+*.exe
+*.o
+*.obj
+ziomki
+ziomki-web
+test_ziomki
+*.db
+*.db.tmp
+*.log
+tmp-*
